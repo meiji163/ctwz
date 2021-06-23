@@ -32,7 +32,7 @@ Some results on the [Canterbury Corpus](https://corpus.canterbury.ac.nz/descript
 |ptt5 	| 513216 | 55562 | 56482
 |plrabn.txt| 481861 |151034 | 194357
 |alice29.txt|152089| 47817 | 54428
-|asyoulik.txt | 125179 | 42720 | 54428
+|asyoulik.txt | 125179 | 42720 | 48922
 
 ## Todo
 - [ ] Parallelize context tree computations
