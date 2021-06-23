@@ -1,5 +1,5 @@
 # ctwz 
-ctwz is a lossless compressor based on the Context Tree Weighting method<sup>[1](#1)</sup>, using byte-level contexts and bit-level prediction. It is mainly good for large files.
+ctwz is a lossless compressor based on the Context Tree Weighting method<sup>[1](#1)</sup>. It takes byte-level contexts and makes binary predictions using an ASCII decomposition tree<sup>[2](#2)</sup>. It is mainly good for large files.
 
 ## Build 
 To build use cmake 
@@ -39,4 +39,5 @@ Some results on the [Canterbury Corpus](https://corpus.canterbury.ac.nz/descript
 - [ ] Lower memory requirements with pruning
 
 ## References
-<div><a name="1">1</a>: Willems, Shtarkov, Tjalkens. "The Context-Tree Weighting Method: Basic Properties"</div>
+<div><a name="1">1</a>: Willems, F., Shtarkov, Y., & Tjalkens, T. (1995). <i>The context-tree weighting method: basic properties</i>. IEEE Trans. Inf. Theory, 41, 653-664.</div>
+<div><a name="2">2</a>: Volf, P. (2002). <i>Weighting Techniques in Data Compression Theory and Algorithms</i>. Ph.D. thesis, Technische Universiteit Eindhoven.
