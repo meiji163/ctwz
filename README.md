@@ -26,7 +26,7 @@ Some results on the [Canterbury Corpus](https://corpus.canterbury.ac.nz/descript
 |file | size(bytes) | ctwz | gzip
 --- | --- | --- | ---
 | E.coli | 4638690| 1209950| 1342009
-|bible.txt | 4047392 |735435| 1177372
+|bible.txt | 4047392 |898767| 1177372
 |world192.txt | 2473400| 561751| 724995 
 |kennedy.xls | 1029744| 167460 | 204016
 |ptt5 	| 513216 | 55562 | 56482
